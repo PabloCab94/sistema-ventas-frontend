@@ -1,0 +1,17 @@
+.inicio-container {
+    min-height: 100vh;
+    background: linear-gradient(to right, #f8f9fa, #e0eafc);
+    padding: 20px;
+  }
+  
+  .card {
+    max-width: 400px;
+    background-color: #ffffff;
+    border-radius: 12px;
+  }
+  
+  .footer {
+    margin-top: auto;
+    padding: 20px 0;
+  }
+  
